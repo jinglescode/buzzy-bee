@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#87CEEB"/>
+  <ellipse cx="256" cy="280" rx="100" ry="80" fill="#FFD54F"/>
+  <rect x="200" y="250" width="112" height="16" rx="8" fill="#3E2723"/>
+  <rect x="200" y="280" width="112" height="16" rx="8" fill="#3E2723"/>
+  <rect x="200" y="310" width="112" height="16" rx="8" fill="#3E2723"/>
+  <circle cx="256" cy="200" r="50" fill="#FFD54F"/>
+  <circle cx="238" cy="190" r="8" fill="#111"/>
+  <circle cx="274" cy="190" r="8" fill="#111"/>
+  <ellipse cx="210" cy="230" rx="40" ry="20" fill="rgba(255,255,255,0.6)" transform="rotate(-30 210 230)"/>
+  <ellipse cx="302" cy="230" rx="40" ry="20" fill="rgba(255,255,255,0.6)" transform="rotate(30 302 230)"/>
+  <text x="256" y="440" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="48" fill="#3E2723">BUZZY BEE</text>
+</svg>
