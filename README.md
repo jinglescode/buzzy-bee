@@ -25,6 +25,10 @@ Open [http://localhost:3000](http://localhost:3000) on your phone or browser.
 
 Open the game in your mobile browser and use "Add to Home Screen" for a full-screen, app-like experience.
 
+## Demo
+
+<blockquote class="twitter-tweet"><p><a href="https://x.com/jinglescode/status/2028114783841739188">View on X</a></p></blockquote>
+
 ## Made by
 
 [Jingles.dev](https://jingles.dev)

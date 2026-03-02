@@ -70,6 +70,7 @@ export default function Game({ onStateChange }: GameProps) {
       movement.isDead = false;
       movement.isHolding = false;
       obstacles.reset();
+      environment.reset();
       bee.mesh.position.set(0, 3, 0);
       bee.reset();
       camera.position.set(0, 5, 8);

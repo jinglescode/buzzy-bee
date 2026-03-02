@@ -64,7 +64,7 @@ export const SCENE = {
   FOG_NEAR: 30,
   FOG_FAR: 80,
   CLOUD_COUNT: 5,
-  GROUND_WIDTH: 40,
+  GROUND_WIDTH: 200,
   GROUND_LENGTH: 200,
 } as const;
 
